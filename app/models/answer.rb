@@ -1,3 +1,3 @@
-class Answer < ApplicationRecord
-  belongs_to :user
-end
+class Answer < ApplicationRecord 
+	belongs_to :user
+end 
